@@ -2,18 +2,16 @@
 sticker: emoji//1f302
 tags: EuroSTARConf
 created: 2023-06-21T10:36
-updated: 2025-01-08T08:55
+updated: 2025-01-08T20:36
+title: Summary Eurostar 2023 Antwerp
 aliases:
   - Wednesday 08/01
 ---
-#EuroSTARConf #TDP
-
-
 ## The main take aways from Eurostar:
 - It is all about the people
 - Invest in your team to get collaborating more and better
 - Watch the language you use
-- Active listening is very important to know what the problem of your collegue(s) is/are then search for common problems and work on it together.
+- Active listening is very important to know what the problem of your colleague(s) is/are then search for common problems and work on it together.
 - Know your environment around your team and know who can help you
 
 ## Critical Thinking
@@ -23,8 +21,8 @@ Definitions:
 **premise** is an assumption that begins a chain of reasoning. All logic is based on premises
 
 Testers question assumptions & premises and gather data for better inferences
+![[Summary Eurostar 2023_pdf_1_56ed4d94.pdf]]
 
-![](assets/Summary Eurostar 2023/2017-03-TestBash-CriticalThinkingforTesters.pdf)
 ## Accessibility
 Automated checks cannot find all errors only 57%
 What do automated accessibility test find:
@@ -58,13 +56,22 @@ A team should have different types of intelligence  to become a better performin
 - Natural
 - Intrapersonal
 
-We need all eight types of intelligence to be a genial team, that means communication is key within the team and outside the team (stakeholders). All our ideas have social and ethical implications. So there are 10 behaviors we like to see within team members, the most important is already mentioned is communication, see note [10 Behaviours of Effective Employees](10%20Behaviours%20of%20Effective%20Employees.md)
+We need all eight types of intelligence to be a genial team, that means communication is key within the team and outside the team (stakeholders). All our ideas have social and ethical implications. So there are 10 behaviors we like to see within team members, the most important is already mentioned is communication, 
+> [!seealso] Seealso test
+> see note [10 Behaviours of Effective Employees](10%20Behaviours%20of%20Effective%20Employees.md)
 
-Sometimes you have to use persuasion to get the necessary information and this is OK..., but it does not always work - talk [Moving Cheese The Art of Persuasion for Testers](Moving%20Cheese%20The%20Art%20of%20Persuasion%20for%20Testers.md)
+Sometimes you have to use persuasion to get the necessary information and this is OK..., but it does not always work - 
+> [!seealso]
+> talk [Moving Cheese The Art of Persuasion for Testers](Moving%20Cheese%20The%20Art%20of%20Persuasion%20for%20Testers.md)
+
 
 ## Testing
 #### Purpose of testing
-Purposeful Testing is not just about what we test, but why and how we test it and the impact our testing has." - talk [Testing with Purpose How Stories, Values and Kindness Make Testing Better](Testing%20with%20Purpose%20How%20Stories,%20Values%20and%20Kindness%20Make%20Testing%20Better.md)
+Purposeful Testing is not just about what we test, but why and how we test it and the impact our testing has." 
+
+> [!seealso]
+> talk [Testing with Purpose How Stories, Values and Kindness Make Testing Better](Testing%20with%20Purpose%20How%20Stories,%20Values%20and%20Kindness%20Make%20Testing%20Better.md)
+
 - stories give your testing work context, relevance and meaning
 - Values guide our testing actions, decisions, and relationships
 - Kindness is one gift anyone can give
@@ -90,11 +97,3 @@ At first I was convinced your first design should be simple, but actually there 
 - It’s all in the mix
 
 
-#tdp
-## Actions:
-- [x] AXE tool: https://github.com/dequelabs/axe-core ✅ 2023-10-27
-- [x] Note taking: checkout youtube channel nicole van de hoeven: [Nicole van der Hoeven - YouTube](https://www.youtube.com/c/nicolevanderhoeven)
-- [x] Knowledge transfer about accessibility testing ✅ 2023-10-27
-- [x] Read about critical thinking pdf
-- [x] Ask questions, actively listening, positive, make a plan, do not act directly, be patient, know what cheese somebody likes
-	 ✅ 2023-10-27
