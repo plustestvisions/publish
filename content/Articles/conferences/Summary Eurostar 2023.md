@@ -3,7 +3,7 @@ sticker: emoji//1f302
 tags: EuroSTARConf
 draft: false
 created: 2023-06-21T10:36
-updated: 2025-01-10T17:35
+updated: 2025-01-16T12:54
 title: Summary Eurostar 2023 Antwerp
 aliases:
   - Wednesday 08/01
@@ -24,7 +24,7 @@ Definitions:
 
 Testers question assumptions & premises and gather data for better inferences
 > [!seealso]
->  [[publish/Articles/Testing/Conferences/Critical Thinking Skills for Testers|Critical Thinking Skills for Tester]] talk from Michael Bolton
+> [[Critical Thinking Skills for Testers]] talk from Michael Bolton
 
 
 ## Accessibility
@@ -62,11 +62,11 @@ A team should have different types of intelligence to become a better performing
 
 We need all eight types of intelligence to be a genial team, that means communication is key within the team and outside the team (stakeholders). All our ideas have social and ethical implications. So there are 10 behaviors we like to see within team members, the most important is already mentioned is communication, 
 > [!seealso] 
-> >  [[publish/Articles/Testing/Conferences/10 Behaviours of Effective Employees]]
+> >  [[10 Behaviours of Effective Employees]]
 
 Sometimes you have to use persuasion to get the necessary information and this is OK..., but it does not always work - 
 > [!seealso] 
-> > [[publish/Articles/Testing/Conferences/Moving Cheese The Art of Persuasion for Testers]]
+> > [[Moving Cheese The Art of Persuasion for Testers]]
 
 
 ## Testing
@@ -74,7 +74,7 @@ Sometimes you have to use persuasion to get the necessary information and this i
 Purposeful Testing is not just about what we test, but why and how we test it and the impact our testing has." 
 
 > [!seealso]
->  > [[publish/Articles/Testing/Conferences/Testing with Purpose How Stories, Values and Kindness Make Testing Better]]
+>  > [[Testing with Purpose How Stories, Values and Kindness Make Testing Better]]
 
 - stories give your testing work context, relevance and meaning
 - Values guide our testing actions, decisions, and relationships

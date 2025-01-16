@@ -1,5 +1,5 @@
 ---
-title: About
+title: about
 draft: false
 excalidraw-plugin: parsed
 excalidraw-open-md: true
@@ -8,7 +8,7 @@ tags:
 created: 2025-01-09T10:39
 updated: 2024-11-08T17:16
 ---
-![[About.svg|inlR|right]]
+![[about.svg|inlR|right]]
 
 Hi dear reader! My name is Paul van Haaster and I live in a town called Nijmegen in the Netherlands.  
 Since 1996 I am working in the software development domain in several roles. Since 2006 as a software tester and since 2022 as scrum master too.  
@@ -20,13 +20,14 @@ Software testing for me means:</li><ul><li>Deliver information on the status of 
 Keywords: open, direct, result driven, eager to learn new stuff, curious.   
 
 Next to software testing I love to bike on my racing and gravel bikes, reading, good food and drinks and visit live concerts and listen to music. 
+[[publish/articles/conferences/Testing with Purpose How Stories, Values and Kindness Make Testing Better]]
 
 %%
 # Excalidraw Data
 
 ## Text Elements
 ## Embedded Files
-b8cf7fa1834e0c7fc07019d8084dec807198cbeb: [[PaulCartoonStockholm_0.jpg]]
+b8cf7fa1834e0c7fc07019d8084dec807198cbeb: [[__temp__PaulCartoonStockholm_0.jpg]]
 
 94349b40217a3f344db76e63e305c6030d14700a: [[selfissimo_4_2018_03_2_13_18_52.bmp]]
 

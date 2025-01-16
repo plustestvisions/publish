@@ -1,11 +1,11 @@
 ---
+title: Critical Thinking Skills for Testers by Michael Bolton
 sticker: emoji//1f636-200d-1f32b-fe0f
 date: 2023-06-13
 tags: EuroSTARConf
 draft: false
 created: 2023-06-20T09:54
-updated: 2025-01-10T17:14
-title: Critical thinking by Michael Bolton
+updated: 2025-01-16T12:51
 ---
 #EuroSTARConf 
 # Introduction
