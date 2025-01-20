@@ -1,5 +1,5 @@
 ---
-title: about
+title: "About new title "
 draft: false
 excalidraw-plugin: parsed
 excalidraw-open-md: true
@@ -20,7 +20,7 @@ Software testing for me means:</li><ul><li>Deliver information on the status of 
 Keywords: open, direct, result driven, eager to learn new stuff, curious.   
 
 Next to software testing I love to bike on my racing and gravel bikes, reading, good food and drinks and visit live concerts and listen to music. 
-[[Testing with Purpose How Stories, Values and Kindness Make Testing Better]]
+[[publish/articles/conferences/Testing with Purpose How Stories, Values and Kindness Make Testing Better|Testing with Purpose How Stories, Values and Kindness Make Testing Better]]
 
 %%
 # Excalidraw Data
