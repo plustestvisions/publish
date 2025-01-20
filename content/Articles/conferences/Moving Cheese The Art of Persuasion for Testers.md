@@ -3,10 +3,9 @@ sticker: emoji//1f9c0
 tags: EuroSTARConf
 draft: false
 created: 2023-06-20T09:57
-updated: 2025-01-10T17:14
+updated: 2025-01-16T12:58
 title: Moving Cheese The Art of Persuasion for Testers by Thomas Shipley
 ---
-
 # summary
 
 Picture the scene. You are sitting in a testing conference – EuroSTAR perhaps. You have heard a brilliant talk – enthusiastic, engaging, and, more importantly, an idea you can use. But you are concerned. You ask a question.

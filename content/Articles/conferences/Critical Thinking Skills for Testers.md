@@ -5,9 +5,8 @@ date: 2023-06-13
 tags: EuroSTARConf
 draft: false
 created: 2023-06-20T09:54
-updated: 2025-01-16T12:51
+updated: 2025-01-16T12:58
 ---
-#EuroSTARConf 
 # Introduction
 
 Critical thinking isn’t just “good thinking”. It’s the kind of thinking that specifically looks for problems and mistakes. Regular people don’t do a lot of that, but to be a great tester, you need to be a great critical thinker. Critically-thinking testers help to save projects from dangerous assumptions and hidden problems, and ultimately from disasters.
